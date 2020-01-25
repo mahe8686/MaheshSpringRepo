@@ -1,5 +1,8 @@
 public class Test{
+private string name;
+private int num;
 
-public void test(){
+public String test(){
+return "Mahesh";
 }
 }
